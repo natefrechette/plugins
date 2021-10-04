@@ -49,3 +49,33 @@ build/
 
 # Downloaded by the plugin tools.
 google-java-format-1.3-all-deps.jar
+
+
+packages/android_alarm_manager
+packages/android_intent
+packages/battery
+packages/android_alarm_manager
+packages/connectivity
+packages/cross_file
+packages/device_info
+packages/e2e
+packages/espresso
+packages/file_selector
+packages/flutter_plugin_android_lifecycle
+packages/google_maps_flutter
+packages/google_sign_in
+packages/image_picker
+packages/in_app_purchase
+packages/integration_test
+packages/ios_platform_images
+packages/local_auth
+packages/package_info
+packages/plugin_platform_interface
+packages/quick_actions
+packages/sensors
+packages/share
+packages/shared_preferences
+packages/url_launcher
+packages/video_player
+packages/webview_flutter
+packages/wifi_info_flutter
